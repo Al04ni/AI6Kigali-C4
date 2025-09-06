@@ -137,7 +137,7 @@ At this point if you do `x_batch, y_batch = next(iter(train_loader))`,
 ### 10. Extensions (Optional Challenges 🚀)
 
 - Try **deeper CNNs**.
-- Use **transfer learning** with a pretrained model (e.g., `ResNet18`).
+- Use **transfer learning** with a pretrained model (e.g., `MobileNetV2`, `ResNet18`).
 - Experiment with **different hyperparameters** (e.g learning rate)
 - Experiment with **different augmentation strategies**.
 - Explore **class imbalance handling** if needed.
