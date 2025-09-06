@@ -19,6 +19,7 @@ This course is designed to provide a hands-on, weekly introduction to key ML con
 - [Week 05: Multilayer Perceptron](lectures/w05_multilayer_perceptron/)
 - [Week 06: Neural Network with PyTorch](lectures/w06_neural_network_pytorch/)
 - [Week 07: Convolutional Neural Networks](lectures/w07_cnn/)
+- [Week 08: Modern ConvNets](lectures/w08_modern_cnn/)
 - ...
 
 ## Assignments
